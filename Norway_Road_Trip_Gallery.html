@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#0b1012"><title>Wild Norway · A road trip in photographs</title>
+<link rel="stylesheet" href="assets/gallery.css">
+<script defer src="assets/data/locations.js"></script><script defer src="assets/gallery.js"></script>
+</head>
+<body>
+<a class="skip-link" href="#grid">Skip to photographs</a>
+<div id="page">
+<header><div class="header-top"><span class="eyebrow">Norway / 2027</span><a href="#travel-resources">Plan your journey ↗</a></div>
+<h1>Wild Norway.</h1><p>Follow the fjords. Cross the high mountains.<br>A journey through landscapes worth stopping for.</p>
+<div class="route" id="photo-total">29 places · Ålesund → Stavanger</div></header>
+<div class="toolbar"><input id="search" type="search" placeholder="Find a place or region…" aria-label="Search locations or regions"><button id="present">▶ TV presentation</button><button id="share">Share</button><span class="count" id="count" aria-live="polite">29 places</span></div>
+<p id="share-status" class="status" role="status"></p>
+<main><div class="grid" id="grid"></div><p id="no-results" hidden>No places match your search.</p><noscript>Please enable JavaScript to view the curated gallery.</noscript></main>
+<section class="resources" id="travel-resources" aria-labelledby="resources-title">
+<div class="eyebrow">Before the journey</div><h2 id="resources-title">The useful details.</h2><p>Official guides for the scenery, the trails and the roads between them. Check live conditions and schedules again before travelling.</p>
+<div class="resource-grid">
+<a href="https://www.visitnorway.com/" target="_blank" rel="noopener"><strong>Visit Norway ↗</strong><span>The national travel guide and destination inspiration.</span></a>
+<a href="https://www.fjordnorway.com/en" target="_blank" rel="noopener"><strong>Fjord Norway ↗</strong><span>Regional guides, fjord destinations and local experiences.</span></a>
+<a href="https://www.nasjonaleturistveger.no/en/" target="_blank" rel="noopener"><strong>Norwegian Scenic Routes ↗</strong><span>Mountain roads, architecture and carefully placed viewpoints.</span></a>
+<a href="https://ut.no/" target="_blank" rel="noopener"><strong>UT.no ↗</strong><span>Walking routes, trail maps and mountain cabins.</span></a>
+<a href="https://www.dnt.no/" target="_blank" rel="noopener"><strong>DNT ↗</strong><span>The Norwegian Trekking Association: cabins, guided trips and advice.</span></a>
+<a href="https://www.yr.no/en" target="_blank" rel="noopener"><strong>Yr.no ↗</strong><span>Local forecasts for valleys, mountains and the coast.</span></a>
+<a href="https://www.vegvesen.no/en/" target="_blank" rel="noopener"><strong>Statens vegvesen ↗</strong><span>The Norwegian Public Roads Administration.</span></a>
+<a href="https://www.vegvesen.no/trafikk" target="_blank" rel="noopener"><strong>Vegvesen Trafikk ↗</strong><span>Live road closures, warnings, webcams and route planning.</span></a>
+<a href="https://entur.no/" target="_blank" rel="noopener"><strong>Entur ↗</strong><span>Journey planning for public transport and many ferry connections.</span></a>
+<a href="https://www.autopass.no/en/" target="_blank" rel="noopener"><strong>AutoPASS ↗</strong><span>Official information about automatic road tolls.</span></a>
+<a href="https://autopassferje.no/en/" target="_blank" rel="noopener"><strong>AutoPASS for ferry ↗</strong><span>Participating crossings, payment agreements and discounts.</span></a>
+<a href="https://ferrypay.no/" target="_blank" rel="noopener"><strong>FerryPay ↗</strong><span>Plate-linked card payment at the ordinary fare on participating ferries.</span></a>
+</div>
+<div class="travel-note">
+<p><strong>Road tolls.</strong> Toll stations operate automatically. A vehicle tag or a camera reading the registration plate identifies the vehicle; payment follows through an agreement or invoice. There is usually no toll booth to stop at.</p>
+<p><strong>Ferry payments.</strong> Participating ferries use tags or registration-plate recognition. AutoPASS ferry agreements and FerryPay are different products; FerryPay does not give a fare discount. Check the operator because some ferries use separate tickets or reservations.</p>
+<p><strong>Rental cars.</strong> Ask how the rental company bills tolls and ferries, what administration fees apply, and whether its existing agreement covers your crossings. Check before registering the rental plate yourself, and limit any registration to your rental dates.</p>
+<p><strong>Schedules and closures.</strong> Start with Entur, then confirm vehicle-ferry sailings and reservations with the operator. Check Vegvesen Trafikk for closures and seasonal mountain-road access. Forecasts, road status and schedules are live information; these links need internet.</p>
+</div>
+</section>
+<footer class="foot"><p>Selected photography, with original sources and licenses attached to every image. Gallery previews are cropped; TV mode preserves the complete frame. This private presentation contains historical photographs, not a record of current trail or glacier conditions.</p><a href="ATTRIBUTIONS.html">All photo credits &amp; selection notes ↗</a></footer>
+</div>
+<section class="presentation" id="presentation" role="dialog" aria-modal="true" aria-labelledby="stage-title" tabindex="-1" hidden>
+<div class="stage" id="stage"><img id="stage-image" class="stage-image" alt=""><img id="stage-image-back" class="stage-image" alt=""><div class="empty" id="stage-empty" role="status" hidden></div>
+<div class="caption"><div class="eyebrow" id="stage-counter"></div><h2 id="stage-title"></h2><p id="stage-description"></p></div></div>
+<div class="nav"><button id="prev" aria-label="Previous photograph">←</button><button id="play" aria-pressed="false">▶ Play</button><button id="next" aria-label="Next photograph">→</button><label>Duration <select id="duration"><option value="5">5 seconds</option><option value="8" selected>8 seconds</option><option value="12">12 seconds</option><option value="20">20 seconds</option></select></label><span class="hint">← → Navigate · Space Pause · Esc Exit</span><span class="spacer"></span><a id="stage-official" target="_blank" rel="noopener">Official guide ↗</a><a id="stage-regional" target="_blank" rel="noopener">Regional guide ↗</a><button id="fullscreen">Fullscreen</button><button id="exit">Close ✕</button><span class="sr-only" id="fullscreen-status" role="status"></span></div>
+<a class="slide-credit" id="stage-credit" target="_blank" rel="noopener"></a>
+</section>
+</body></html>

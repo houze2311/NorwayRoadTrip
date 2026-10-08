@@ -1,0 +1,65 @@
+{
+  "checkedOn": "2026-10-08",
+  "results": [
+    {
+      "url": "https://www.visitnorway.com/",
+      "error": "HTTP Error 403: Forbidden",
+      "webVerification": "Official page opened successfully through web research on 2026-10-08; direct checker blocked/refused."
+    },
+    {
+      "url": "https://www.fjordnorway.com/en",
+      "status": 200,
+      "finalUrl": "https://www.fjordnorway.com/en"
+    },
+    {
+      "url": "https://www.nasjonaleturistveger.no/en/",
+      "error": "<urlopen error [Errno 61] Connection refused>",
+      "webVerification": "Official page opened successfully through web research on 2026-10-08; direct checker blocked/refused."
+    },
+    {
+      "url": "https://ut.no/",
+      "status": 200,
+      "finalUrl": "https://ut.no/"
+    },
+    {
+      "url": "https://www.dnt.no/",
+      "status": 200,
+      "finalUrl": "https://www.dnt.no/"
+    },
+    {
+      "url": "https://www.yr.no/en",
+      "status": 200,
+      "finalUrl": "https://www.yr.no/en"
+    },
+    {
+      "url": "https://www.vegvesen.no/en/",
+      "status": 200,
+      "finalUrl": "https://www.vegvesen.no/en/"
+    },
+    {
+      "url": "https://www.vegvesen.no/trafikk",
+      "status": 200,
+      "finalUrl": "https://www.vegvesen.no/trafikk"
+    },
+    {
+      "url": "https://entur.no/",
+      "status": 200,
+      "finalUrl": "https://entur.no/"
+    },
+    {
+      "url": "https://www.autopass.no/en/",
+      "error": "<urlopen error [Errno 61] Connection refused>",
+      "webVerification": "Official page opened successfully through web research on 2026-10-08; direct checker blocked/refused."
+    },
+    {
+      "url": "https://autopassferje.no/en/",
+      "status": 200,
+      "finalUrl": "https://autopassferje.no/en/"
+    },
+    {
+      "url": "https://ferrypay.no/",
+      "status": 200,
+      "finalUrl": "https://ferrypay.no/"
+    }
+  ]
+}

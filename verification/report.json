@@ -1,0 +1,312 @@
+{
+  "checkedOn": "2026-10-08",
+  "checks": [
+    "29 destinations; all 48 local images decode offline and match manifest dimensions",
+    "48 distinct image assets",
+    "Search and empty results",
+    "Fullscreen API entered; arrow navigation",
+    "Space pause/resume; configured 5-second autoplay advances",
+    "F toggles fullscreen; Escape exits and restores focus",
+    "Card opens correct destination; inactive controls hide",
+    "3840×2160 presentation; no horizontal overflow; full-frame contain",
+    "390px mobile layout has no horizontal overflow",
+    "Missing image shows explicit fallback, with no unrelated replacement",
+    "No JavaScript exceptions; zero external runtime requests; offline file:// works"
+  ],
+  "screenshots": [
+    "gallery-1920.png",
+    "presentation-1920.png",
+    "presentation-3840.png"
+  ],
+  "photos": [
+    {
+      "src": "assets/images/saksa-01.jpg",
+      "width": 3840,
+      "height": 2561,
+      "metadataMatches": true
+    },
+    {
+      "src": "assets/images/saksa-02.jpg",
+      "width": 3840,
+      "height": 2560,
+      "metadataMatches": true
+    },
+    {
+      "src": "assets/images/hotel-union-oye-01.jpg",
+      "width": 3840,
+      "height": 2550,
+      "metadataMatches": true
+    },
+    {
+      "src": "assets/images/romsdalen-01.jpg",
+      "width": 3840,
+      "height": 1547,
+      "metadataMatches": true
+    },
+    {
+      "src": "assets/images/romsdalen-02.jpg",
+      "width": 3840,
+      "height": 1751,
+      "metadataMatches": true
+    },
+    {
+      "src": "assets/images/romsdalen-03.jpg",
+      "width": 3840,
+      "height": 2936,
+      "metadataMatches": true
+    },
+    {
+      "src": "assets/images/seven-sisters-01.jpg",
+      "width": 3000,
+      "height": 2000,
+      "metadataMatches": true
+    },
+    {
+      "src": "assets/images/skagefla-01.jpg",
+      "width": 3840,
+      "height": 2878,
+      "metadataMatches": true
+    },
+    {
+      "src": "assets/images/skagefla-02.jpg",
+      "width": 3840,
+      "height": 2880,
+      "metadataMatches": true
+    },
+    {
+      "src": "assets/images/skagefla-03.jpg",
+      "width": 3840,
+      "height": 1114,
+      "metadataMatches": true
+    },
+    {
+      "src": "assets/images/geiranger-01.jpg",
+      "width": 3840,
+      "height": 2560,
+      "metadataMatches": true
+    },
+    {
+      "src": "assets/images/trollstigen-01.jpg",
+      "width": 2609,
+      "height": 1600,
+      "metadataMatches": true
+    },
+    {
+      "src": "assets/images/flydalsjuvet-01.jpg",
+      "width": 3072,
+      "height": 1516,
+      "metadataMatches": true
+    },
+    {
+      "src": "assets/images/flydalsjuvet-02.jpg",
+      "width": 3840,
+      "height": 1661,
+      "metadataMatches": true
+    },
+    {
+      "src": "assets/images/dalsnibba-01.jpg",
+      "width": 3840,
+      "height": 1613,
+      "metadataMatches": true
+    },
+    {
+      "src": "assets/images/dalsnibba-02.jpg",
+      "width": 2748,
+      "height": 1832,
+      "metadataMatches": true
+    },
+    {
+      "src": "assets/images/gamle-strynefjellsvegen-01.jpg",
+      "width": 3264,
+      "height": 2448,
+      "metadataMatches": true
+    },
+    {
+      "src": "assets/images/ornesvingen-01.jpg",
+      "width": 3840,
+      "height": 2156,
+      "metadataMatches": true
+    },
+    {
+      "src": "assets/images/besseggen-01.jpg",
+      "width": 3072,
+      "height": 2304,
+      "metadataMatches": true
+    },
+    {
+      "src": "assets/images/besseggen-02.jpg",
+      "width": 3840,
+      "height": 2560,
+      "metadataMatches": true
+    },
+    {
+      "src": "assets/images/besseggen-03.jpg",
+      "width": 3840,
+      "height": 2603,
+      "metadataMatches": true
+    },
+    {
+      "src": "assets/images/sognefjellet-01.jpg",
+      "width": 3264,
+      "height": 1840,
+      "metadataMatches": true
+    },
+    {
+      "src": "assets/images/sognefjellet-02.jpg",
+      "width": 3840,
+      "height": 2491,
+      "metadataMatches": true
+    },
+    {
+      "src": "assets/images/nedre-oscarshaug-01.jpg",
+      "width": 1920,
+      "height": 1082,
+      "metadataMatches": true
+    },
+    {
+      "src": "assets/images/dale-kyrkje-01.jpg",
+      "width": 3840,
+      "height": 2553,
+      "metadataMatches": true
+    },
+    {
+      "src": "assets/images/nigardsbreen-01.jpg",
+      "width": 1920,
+      "height": 1440,
+      "metadataMatches": true
+    },
+    {
+      "src": "assets/images/nigardsbreen-02.jpg",
+      "width": 1920,
+      "height": 1280,
+      "metadataMatches": true
+    },
+    {
+      "src": "assets/images/nigardsbreen-03.jpg",
+      "width": 1920,
+      "height": 1080,
+      "metadataMatches": true
+    },
+    {
+      "src": "assets/images/flotvatnet-01.jpg",
+      "width": 3840,
+      "height": 3840,
+      "metadataMatches": true
+    },
+    {
+      "src": "assets/images/laerdalstunnelen-01.jpg",
+      "width": 3840,
+      "height": 2880,
+      "metadataMatches": true
+    },
+    {
+      "src": "assets/images/stegastein-01.jpg",
+      "width": 3840,
+      "height": 2555,
+      "metadataMatches": true
+    },
+    {
+      "src": "assets/images/stegastein-02.jpg",
+      "width": 3840,
+      "height": 2880,
+      "metadataMatches": true
+    },
+    {
+      "src": "assets/images/aurlandsvangen-01.jpg",
+      "width": 3840,
+      "height": 2546,
+      "metadataMatches": true
+    },
+    {
+      "src": "assets/images/flam-01.jpg",
+      "width": 1920,
+      "height": 1279,
+      "metadataMatches": true
+    },
+    {
+      "src": "assets/images/gudvangen-01.jpg",
+      "width": 3840,
+      "height": 2074,
+      "metadataMatches": true
+    },
+    {
+      "src": "assets/images/stalheimskleiva-01.jpg",
+      "width": 1920,
+      "height": 1277,
+      "metadataMatches": true
+    },
+    {
+      "src": "assets/images/trolltunga-01.jpg",
+      "width": 3840,
+      "height": 2560,
+      "metadataMatches": true
+    },
+    {
+      "src": "assets/images/trolltunga-02.jpg",
+      "width": 1920,
+      "height": 1280,
+      "metadataMatches": true
+    },
+    {
+      "src": "assets/images/trolltunga-03.jpg",
+      "width": 3840,
+      "height": 2880,
+      "metadataMatches": true
+    },
+    {
+      "src": "assets/images/reinanuten-01.jpg",
+      "width": 3840,
+      "height": 1077,
+      "metadataMatches": true
+    },
+    {
+      "src": "assets/images/latefossen-01.jpg",
+      "width": 3840,
+      "height": 2561,
+      "metadataMatches": true
+    },
+    {
+      "src": "assets/images/latefossen-02.jpg",
+      "width": 3840,
+      "height": 2522,
+      "metadataMatches": true
+    },
+    {
+      "src": "assets/images/preikestolen-01.jpg",
+      "width": 3840,
+      "height": 2560,
+      "metadataMatches": true
+    },
+    {
+      "src": "assets/images/preikestolen-02.jpg",
+      "width": 1920,
+      "height": 1279,
+      "metadataMatches": true
+    },
+    {
+      "src": "assets/images/preikestolen-03.jpg",
+      "width": 3840,
+      "height": 1333,
+      "metadataMatches": true
+    },
+    {
+      "src": "assets/images/kjerag-01.jpg",
+      "width": 3840,
+      "height": 2543,
+      "metadataMatches": true
+    },
+    {
+      "src": "assets/images/lysebotn-01.jpg",
+      "width": 3840,
+      "height": 2560,
+      "metadataMatches": true
+    },
+    {
+      "src": "assets/images/lysebotn-02.jpg",
+      "width": 3840,
+      "height": 2880,
+      "metadataMatches": true
+    }
+  ],
+  "status": "passed"
+}
