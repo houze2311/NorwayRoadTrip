@@ -15,9 +15,10 @@ notes={
 'lysebotn':'The first photo includes Lysebotn village and its valley below the hairpins; the second looks from the village toward the fjord. Neither is a drone overview of the entire village and fjord.',
 'nedre-oscarshaug':'The photograph shows the Oscarshaug observation structure and surrounding mountains.',
 'gamle-strynefjellsvegen':'The photograph shows Hellstuguvatnet and Raudeggi along the route; the road itself is not the main subject.',
-'stalheimskleiva':'A contemporary photograph of a hairpin is used instead of the historical colourised image returned by search.',
+'stalheimskleiva':'A hairpin on Stalheimskleiva overlooks the Nærøydalen valley; the source caption and categories identify this location.',
 'geiranger':'Village view. The wider view from Flydalsjuvet is reserved for the separate Flydalsjuvet stop.'}
 alts={
+'stalheimskleiva':['A tight bend on Stalheimskleiva overlooking the steep green Nærøydalen valley'],
 'saksa':['Sunbeams over Saksa and the fjord shore at Øye','The pointed summit of Saksa seen from Øye'],
 'romsdalen':['The Rauma River and Trolltindane above green Romsdalen','Romsdalshorn and the Romsdalen valley from Litlefjellet','The towering Trolltindane wall above Romsdalen'],
 'skagefla':['Skageflå farm on its green ledge above Geirangerfjord','Skageflå farm perched on the fjord cliffs','A wide panorama of Geirangerfjord from Skageflå'],
